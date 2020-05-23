@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/rommac/hdmi_testing/hdmi_testing.srcs/sources_1/new/tmds_encode.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tmds_encode
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/rommac/hdmi_testing/hdmi_testing.srcs/sim_1/new/tmds_testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tmds_testbench
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/rommac/hdmi_testing/hdmi_testing.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
